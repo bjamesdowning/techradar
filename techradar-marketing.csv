@@ -1,26 +1,26 @@
 name,quadrant,ring,isNew,description
 Tanzu with PowerStore,Blog,Engineer,TRUE,<p><h3> Modern Applications<br>Data Protection</31></p>
-Dell Technologies PowerProtect Cyber Recovery,Case Study,Technical Sales,TRUE,<p><h1>Data Protection</h1></p>
-Exploring the New Virtual Machine Service within Tanzu to Support Complete Infrastructure as Code,Webinar,Sales,TRUE,<p><h1> Modern Applications</h1></p>
+Dell Technologies PowerProtect Cyber Recovery,Case Study,Engineer,TRUE,<p><h1>Data Protection</h1></p>
+Exploring the New Virtual Machine Service within Tanzu to Support Complete Infrastructure as Code,Webinar,Engineer,TRUE,<p><h1> Modern Applications</h1></p>
 vRealize Automation and SaltStack,Demonstration,Executive,TRUE,<p><h1> Automation</h1></p>
 Dell PowerProtect Backup Services,Blog,Engineer,TRUE,<p><h1>Data Protection</h1></p>
-VMware Horizon on VxRail,Case Study,Technical Sales,TRUE,<p><h1>End User Compute</h1></p>
-Threat Hunting and Incident Response in the New Threat Landscape – Carbon Black,Webinar,Sales,TRUE,<p><h1>Security</h1></p>
+VMware Horizon on VxRail,Case Study,Engineer,TRUE,<p><h1>End User Compute</h1></p>
+Threat Hunting and Incident Response in the New Threat Landscape – Carbon Black,Webinar,Engineer,TRUE,<p><h1>Security</h1></p>
 Capacity Planning with vROps,Demonstration,Executive,TRUE,<p><h1>Management & Monitoring</h1></p>
-vRealize Automation Extensibility,Blog,Engineer,TRUE,<p><h1>Automation</h1></p>
-Dell PowerStore and Dell PowerScale,Case Study,Technical Sales,TRUE,<p><h1> Data Protection</h1></p>
-Getting Started with vROps,Webinar,Sales,TRUE,<p><h1>Management & Monitoring</h1></p>
+vRealize Automation Extensibility,Blog,Executive,TRUE,<p><h1>Automation</h1></p>
+Dell PowerStore and Dell PowerScale,Case Study,Executive,TRUE,<p><h1> Data Protection</h1></p>
+Getting Started with vROps,Webinar,Executive,TRUE,<p><h1>Management & Monitoring</h1></p>
 Using NSX-ALB as an Ingress for Tanzu Kubernetes Grid,Demonstration,Executive,TRUE,<p><h1>Modern Applications<br>Networking</h1></p>
-vRealize Automation ABX,Blog,Engineer,TRUE,<p><h1>Automation</h1></p>
-Ansible and vRA,Case Study,Technical Sales,TRUE,<p><h1>Automation</h1></p>
-Container Security with NSX-T,Webinar,Sales,TRUE,<p><h1>Networking<br>Cybersecurity<br>Modern Applications</h1></p>
+vRealize Automation ABX,Blog,Executive,TRUE,<p><h1>Automation</h1></p>
+Ansible and vRA,Case Study,Executive,TRUE,<p><h1>Automation</h1></p>
+Container Security with NSX-T,Webinar,Executive,TRUE,<p><h1>Networking<br>Cybersecurity<br>Modern Applications</h1></p>
 NSX-T Identity Firewall with Horizon Virtual Desktop Infrastructure (VDI),Demonstration,Executive,TRUE,<p><h1>End User Compute<br>Cybersecurity<br>Networking</h1></p>
 NSX-T Advanced Load Balancer for Multi-Location VDI,Blog,Engineer,TRUE,<p><h1>End User Compute<br>Networking</h1></p>
-vRA and Terraform: More Powerful Together,Case Study,Technical Sales,TRUE,<p><h1>Automation</h1></p>
-Managing Tanzu Kubernetes Grid Clusters using Tanzu Mission Control,Webinar,Sales,TRUE,<p><h1>Modern Applications<br>Automation<br>CyberSecurity</h1></p>
-Deploying Containerized Applications to vSphere with Tanzu using Helm,Demonstration,Executive,TRUE,<p><h1> Modern Applications<br>Automation</h1></p>
+vRA and Terraform: More Powerful Together,Case Study,Engineer,TRUE,<p><h1>Automation</h1></p>
+Managing Tanzu Kubernetes Grid Clusters using Tanzu Mission Control,Webinar,Engineer,TRUE,<p><h1>Modern Applications<br>Automation<br>CyberSecurity</h1></p>
+Deploying Containerized Applications to vSphere with Tanzu using Helm,Demonstration,Engineer,TRUE,<p><h1> Modern Applications<br>Automation</h1></p>
 Terraform with NSX-T and vSphere,Blog,Engineer,TRUE,<p><h1>Automation<br>Networking</h1></p>
-Automated Application Scalability with Tanzu Kubernetes Grid,Case Study,Technical Sales,TRUE,<p><h1>Modern Applications<br>Automation</h1></p>
-VMC on AWS,Demonstration,Executive,TRUE,<p><h1>Cloud</h1></p>
+Automated Application Scalability with Tanzu Kubernetes Grid,Case Study,Engineer,TRUE,<p><h1>Modern Applications<br>Automation</h1></p>
+VMC on AWS,Demonstration,Engineer,TRUE,<p><h1>Cloud</h1></p>
 vRealize Automation Blueprinting,Blog,Engineer,TRUE,<p><h1>Automation</h1></p>
-Cisco Data Center Automation with Ansible,Case Study,Technical Sales,TRUE,<p><h1>Automation<br>Networking</h1></p>
+Cisco Data Center Automation with Ansible,Case Study,Engineer,TRUE,<p><h1>Automation<br>Networking</h1></p>
