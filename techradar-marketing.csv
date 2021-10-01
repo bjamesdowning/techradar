@@ -1,27 +1,27 @@
 name,quadrant,ring,isNew,description
-anzu with PowerStore,Blog,Engineer,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
-Dell Technologies PowerProtect Cyber Recovery,Case Study,Technical Sales,TRUE,
-Exploring the New Virtual Machine Service within Tanzu to Support Complete Infrastructure as Code,Webinar,Sales,TRUE,
-vRealize Automation and SaltStack,Demonstration,Executive,TRUE,
-Dell PowerProtect Backup Services,Blog,Engineer,TRUE,
-VMware Horizon on VxRail,Case Study,Technical Sales,TRUE,
-Threat Hunting and Incident Response in the New Threat Landscape – Carbon Black,Webinar,Sales,TRUE,
-Capacity Planning with vROps,Demonstration,Executive,TRUE,
-vRealize Automation Extensibility,Blog,Engineer,TRUE,
-Dell PowerStore and Dell PowerScale,Case Study,Technical Sales,TRUE,
-Getting Started with vROps,Webinar,Sales,TRUE,
-Using NSX-ALB as an Ingress for Tanzu Kubernetes Grid,Demonstration,Executive,TRUE,
-vRealize Automation ABX,Blog,Engineer,TRUE,
-Ansible and vRA,Case Study,Technical Sales,TRUE,
-Container Security with NSX-T,Webinar,Sales,TRUE,
-NSX-T Identity Firewall with Horizon Virtual Desktop Infrastructure (VDI),Demonstration,Executive,TRUE,
-NSX-T Advanced Load Balancer for Multi-Location VDI,Blog,Engineer,TRUE,
-vRA and Terraform: More Powerful Together,Case Study,Technical Sales,TRUE,
-Managing Tanzu Kubernetes Grid Clusters using Tanzu Mission Control,Webinar,Sales,TRUE,
-Deploying Containerized Applications to vSphere with Tanzu using Helm,Demonstration,Executive,TRUE,
-Terraform with NSX-T and vSphere,Blog,Engineer,TRUE,
-Automated Application Scalability with Tanzu Kubernetes Grid,Case Study,Technical Sales,TRUE,
-VMware Horizon on VxRail,Webinar,Sales,TRUE,
-VMC on AWS,Demonstration,Executive,TRUE,
-vRealize Automation Blueprinting,Blog,Engineer,TRUE,
-Cisco Data Center Automation with Ansible,Case Study,Technical Sales,TRUE,
+Tanzu with PowerStore,Blog,Engineer,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Dell Technologies PowerProtect Cyber Recovery,Case Study,Technical Sales,TRUE,<p><h1>Data Protection</h1></p>
+Exploring the New Virtual Machine Service within Tanzu to Support Complete Infrastructure as Code,Webinar,Sales,TRUE,<p><h1> Modern Applications</h1></p>
+vRealize Automation and SaltStack,Demonstration,Executive,TRUE,<p><h1> Automation</h1></p>
+Dell PowerProtect Backup Services,Blog,Engineer,TRUE,<p><h1>Data Protection</h1></p>
+VMware Horizon on VxRail,Case Study,Technical Sales,TRUE,<p><h1>End User Compute</h1></p>
+Threat Hunting and Incident Response in the New Threat Landscape – Carbon Black,Webinar,Sales,TRUE,<p><h1>Security</h1></p>
+Capacity Planning with vROps,Demonstration,Executive,TRUE,<p><h1>Management & Monitoring</h1></p>
+vRealize Automation Extensibility,Blog,Engineer,TRUE,<p><h1>Automation</h1></p>
+Dell PowerStore and Dell PowerScale,Case Study,Technical Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Getting Started with vROps,Webinar,Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Using NSX-ALB as an Ingress for Tanzu Kubernetes Grid,Demonstration,Executive,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+vRealize Automation ABX,Blog,Engineer,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Ansible and vRA,Case Study,Technical Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Container Security with NSX-T,Webinar,Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+NSX-T Identity Firewall with Horizon Virtual Desktop Infrastructure (VDI),Demonstration,Executive,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+NSX-T Advanced Load Balancer for Multi-Location VDI,Blog,Engineer,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+vRA and Terraform: More Powerful Together,Case Study,Technical Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Managing Tanzu Kubernetes Grid Clusters using Tanzu Mission Control,Webinar,Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Deploying Containerized Applications to vSphere with Tanzu using Helm,Demonstration,Executive,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Terraform with NSX-T and vSphere,Blog,Engineer,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Automated Application Scalability with Tanzu Kubernetes Grid,Case Study,Technical Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+VMware Horizon on VxRail,Webinar,Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+VMC on AWS,Demonstration,Executive,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+vRealize Automation Blueprinting,Blog,Engineer,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
+Cisco Data Center Automation with Ansible,Case Study,Technical Sales,TRUE,<p><h1> Modern Applications<br>Data Protection</h1></p>
