@@ -1,76 +1,77 @@
 name,quadrant,ring,isNew,description
-Tanzu with PowerStore,Demonstration,Engineer,FALSE,Modern Applications<br>Data Protection
-Dell Technologies PowerProtect Cyber Recovery,Demonstration,Engineer,FALSE,Data Protection
-Exploring the New Virtual Machine Service within Tanzu to Support Complete Infrastructure as Code,Demonstration,Engineer,FALSE,Modern Applications
-vRealize Automation and SaltStack,Demonstration,Engineer,FALSE,Automation
-Dell PowerProtect Backup Services,Demonstration,Engineer,FALSE,Data Protection
-VMware Horizon on VxRail,Demonstration,Engineer,FALSE,End User Computing
-Threat Hunting and Incident Response in the New Threat Landscape – Carbon Black,Demonstration,Engineer,FALSE,Cybersecurity
-Capacity Planning with vROps,Demonstration,Engineer,FALSE,Management & Monitoring
-vRealize Automation Extensibility,Demonstration,Engineer,FALSE,Automation
-Dell PowerStore and Dell PowerScale,Demonstration,Engineer,FALSE, Data Protection
-Getting Started with vROps,Demonstration,Engineer,FALSE,Management & Monitoring
-Using NSX-ALB as an Ingress for Tanzu Kubernetes Grid,Demonstration,Engineer,FALSE,Modern Applications<br>Networking
-vRealize Automation ABX,Demonstration,Engineer,FALSE,Automation
-Ansible and vRA,Demonstration,Engineer,FALSE,Automation
-Container Cybersecurity with NSX-T,Demonstration,Engineer,FALSE,Networking<br>Cybersecurity<br>Modern Applications
-NSX-T Identity Firewall with Horizon Virtual Desktop Infrastructure (VDI),Demonstration,Engineer,FALSE,End User Computing<br>Cybersecurity<br>Networking
-NSX-T Advanced Load Balancer for Multi-Location VDI,Demonstration,Engineer,FALSE,End User Computing<br>Networking
-vRA and Terraform: More Powerful Together,Demonstration,Engineer,FALSE,Automation
-Managing Tanzu Kubernetes Grid Clusters using Tanzu Mission Control,Demonstration,Engineer,FALSE,Modern Applications<br>Automation<br>Cybersecurity
-Deploying Containerized Applications to vSphere with Tanzu using Helm,Demonstration,Engineer,FALSE,Modern Applications<br>Automation
-Terraform with NSX-T and vSphere,Demonstration,Engineer,FALSE,Automation<br>Networking
-Automated Application Scalability with Tanzu Kubernetes Grid,Demonstration,Engineer,FALSE,Modern Applications<br>Automation
-VMC on AWS,Demonstration,Engineer,FALSE,Cloud
-vRealize Automation Blueprinting,Demonstration,Engineer,FALSE,Automation
-Cisco Data Center Automation with Ansible,Demonstration,Engineer,FALSE,Automation<br>Networking
-Extending Your Data Center during a Chip,Blog,Executive,FALSE,Cloud
-Three starting points for the zero-trust roadmap,Blog,Executive,FALSE,Cybersecurity
-Chipageddon Ð How will you respond?,Blog,Executive,FALSE,Cloud
-Diversifying Your Backups,Blog,Executive,FALSE, Data Protection
-The Language of Cloud,Blog,Executive,FALSE, Automation
-Creating a Modern Platform from Existing Infrastructure with VMware Tanzu and Dell PowerStore,Blog,Executive,FALSE,Modern Applications
-Trading Technical Debt for Managed Services in the Cloud,Blog,Executive,FALSE,Cloud
-Disaster Recovery with VMware VCDR,Blog,Executive,FALSE,Data Protection<br>Cloud
-The Cybersecurity Pandemic,Blog,Executive,FALSE,Cybersecurity
-"Application Continuous Deployment on AWS using AWS EKS, GitLab, and Jenkins",Blog,Executive,FALSE,Automation
-SaltStack vRealized,Blog,Executive,FALSE,Automation
-Tanzu Mission Control Orchestrates Kubernetes Across Multiple Public and Private Clouds,Blog,Executive,FALSE,Modern Applications<br>Automation
-vSphere with Tanzu: The fastest route to a modern infrastructure,Blog,Executive,FALSE,Modern Applications
-Microservices vs Monolithic,Blog,Executive,FALSE,Modern Applications
-Automated Kubernetes Deployment using Tanzu Kubernetes Grid,Blog,Executive,FALSE,Modern Applications
-AWS QuickSight for Fast Business Analytics,Blog,Executive,FALSE,Modern Applications<br>Automation
-Continuous Integration and Continuous Delivery (CI/CD),Blog,Executive,FALSE,Automation
-Modernizing and Securing Desktop Infrastructure with VDI,Blog,Executive,FALSE,End User Computing
-"Strategy To Deploy A Highly Available, Mission-Critical Application On Cloud",Blog,Executive,FALSE,Modern Applications<br>Cloud
-Securing the Healthcare Supply Chain,Blog,Executive,FALSE,Modern Applications<br>Cloud
-A Single Source of Truth,Blog,Executive,FALSE,Modern Applications<br>Automation
-Know Your Resellers to Ensure a Secure Supply Chain,Blog,Executive,FALSE,
-Technology Triage Saves Damaged Devices Without Warranty,Blog,Executive,FALSE,
-Migrating to NSX Data Center (NSX-T) from NSX for vSphere (NSX-V),Blog,Executive,FALSE,Networking
-Provide Application Scalability using VMware Tanzu Kubernetes Grid,Blog,Executive,FALSE,Modern Applications
-Adoption of Telehealth Capabilities for Healthcare Providers,Blog,Executive,FALSE,
+Tanzu with PowerStore,Demonstration,Buying,FALSE,"Modern Applications<br>Data Protection<p>Learn how vSphere with Tanzu can leverage efficient, scalable, and high speed storage in Dell’s PowerStore platform to backup and contain persistent data for your applications running on Kubernetes</p>"
+Dell Technologies PowerProtect Cyber Recovery,Demonstration,Research,FALSE,Data Protection<p>PowerProtect Cyber Recovery protects and isolates critical data from ransomware and other sophisticated threats. Machine learning identifies suspicious activity and allows you to recover known good data and resume normal business operations with confidence.</p>
+Exploring the New Virtual Machine Service within Tanzu to Support Complete Infrastructure as Code,Demonstration,Consideration,FALSE,"Modern Applications<p>In a recent update VMware has announced the Virtual Machine service within the Kubernetes based vSphere with Tanzu capability set. This VM service allows operators to provide self-service functionality to their consumers using a common Kubernetes API for any workload desired such as vSphere Pods (containers), Tanzu Kubernetes Clusters, and now Virtual Machines. We’ll explore how this added benefit helps consolidate deployment platforms for all workloads to create a seamless infrastructure as code based environment.</p>"
+vRealize Automation and SaltStack,Demonstration,Consideration,FALSE,"Automation<p>How can organizations maintain the standards of their environments, and protect them? Learn how SaltStack Config can be used along with vRealize Automation to configure workloads deployed into your environment and maintain those standards from drift. We will use vRealize Automation to deploy our template, and then configure the workloads and maintain them using SaltStack Config.</p>"
+Dell PowerProtect Backup Services,Demonstration,Consideration,FALSE,"Data Protection<p>PowerProtect Backup Service is a cloud data protection solution designed to deliver SaaS based protection without increasing IT complexity white ensuring predictable, controllable costs.  PowerProtect Backup Service deploys in minutes and provides unlimited on-demand scaling to ensure growing data volumes are always protected.</p>"
+VMware Horizon on VxRail,Demonstration,Buying,FALSE,"End User Computing<p>VxRail with Horizon delivers a turnkey solution enabling organizations to cost-effectively and quickly transform physical desktops into secure digital workspaces with a hyperconverged infrastructure appliance (HCIA) that is easier to procure, deploy, manage, and scale as demand grows.  VxRail nodes come pre-configured with ESXi server, vCenter Server and Virtual SAN for all nodes, streamlining the onboarding of your Horizon environment.  We will demonstrate the how the VxRail infrastructure is pre-configured for Horizon, and how Horizon provides on-demand virtual desktops via the web or Horizon desktop client.</p>"
+Threat Hunting and Incident Response in the New Threat Landscape – Carbon Black,Demonstration,Research,FALSE,"Cybersecurity<p>Last December, the security industry was stunned by the magnitude and sophistication of the SolarWinds breach. Today, efforts are still underway to assess the impact of the more than nine-month-old cyberespionage campaign. While the task might seem daunting, looking for anomalies like SUNBURST in your data becomes easier with additional intelligence. Please join VMware Carbon Black for this Power Block session as they cover what normal looks like and how to find the abnormal, dig to the root cause, quickly respond and destroy on-going APTs, and set yourself up to automatically detect emerging threats like SUNBURST moving forward.</p>"
+Capacity Planning with vROps,Demonstration,Consideration,FALSE,Management & Monitoring<p>We’ll be discussing the building blocks for capacity planning with vRealize Operations Manager to help better understand the numbers behind the capacity values. We’ll also be demonstrating how to optimize capacity for saving resources and costs in your data centers.</p>
+vRealize Automation Extensibility,Demonstration,Buying,FALSE,"Automation<p>vRealize Orchestrator is the anything-as-a-service (Xaas) that can be utilized for API management, SSH/Winrm connection, LDAP connectivity and so much more. This demo will show just a fraction of the many ways this can be used to enable users to run automation from the Service broker, as well as combining with infrastructure deployment.</p>"
+Dell PowerStore and Dell PowerScale,Demonstration,Research,FALSE, Data Protection<p>A demo on Dell’s leading storage solutions – PowerStore and PowerScale.</p>
+Getting Started with vROps,Demonstration,Research,FALSE,"Management & Monitoring<p>For those who have never used vRealize Operations before we’ll be taking a high-level look at some of the key tenets of vROps including Troubleshooting, Capacity adjustments for performance and cost savings, and taking a look at the Dashboarding and Reporting features in the tool.</p>"
+Using NSX-ALB as an Ingress for Tanzu Kubernetes Grid,Demonstration,Buying,FALSE,"Modern Applications<br>Networking<p>Utilize the NSX Advanced Load Balancer (Formerly Avi Networks) to provide Ingress services for Tanzu Kubernetes Clusters to distribute traffic to applications based on application context-aware, layer 7 routing.</p>"
+vRealize Automation ABX,Demonstration,Buying,FALSE,"Automation<p>vRealize Automation, enables additional automation through ABX(Action Based Extensibility) to run functions as a service(FaaS) code that does additional configuration and management based off the lifecycle of the deployment. This demo will focus on how it can be utilized and enabled.</p>"
+Ansible and vRA,Demonstration,Research,FALSE,"Automation<p>In this webinar, we show the open-source power of Ansible, with the infrastructure management, and configuration of vRealize Automation.</p>"
+Container Cybersecurity with NSX-T,Demonstration,Consideration,FALSE,"Networking<br>Cybersecurity<br>Modern Applications<p>For environments that have a mix of bare metal, virtual machine, and container workloads security policy can easily sprawl across many different solutions. Using NSX-T for data center, we’ll demonstrate how to create a centralized security policy for all your workloads while still enabling application owners to interact with their apps as they’ve intended. Whether that is through Kubernetes network-policy objects, or simple virtual machine naming schemes, NSX-T provides a unifies fabric to apply all security policies as needed.</p>"
+NSX-T Identity Firewall with Horizon Virtual Desktop Infrastructure (VDI),Demonstration,Buying,FALSE,"End User Computing<br>Cybersecurity<br>Networking<p>VMware’s NSX-T and Horizon solutions work in tandem with your identity services to deploy a robust and highly available virtual desktop infrastructure that is secured down to individual user identity. During this session, we’ll demonstrate the use case of using NSX-T as the networking and security platform to support a Horizon VDI deployment by linking user identity directly to security policy across the entire environment.</p>"
+NSX-T Advanced Load Balancer for Multi-Location VDI,Demonstration,Buying,FALSE,End User Computing<br>Cybersecurity<br>Networking<p>Dive into NSX-T Federation to deploy a resilient virtual desktop infrastructure across multiple sites while controlling ingress traffic using the NSX Advanced Load Balancer (formerly Avi networks). The NSX Advanced Load Balancer provides a definitive ingress point for your virtual desktop infrastructure across multiple sites to ensure optimal uptime for critical user connectivity and application access.</p>
+vRA and Terraform: More Powerful Together,Demonstration,Consideration,FALSE,"Automation<p>When you add the functionality of Terraform with the customer engagement of vRealize Automation, you get a really powerful solution that empowers developers, and operations to manage and solve business issues quickly. This walkthrough will take a peek into how you can use both of these functions together to leverage the individual strengths for an agile solution for your customers.</p>"
+Managing Tanzu Kubernetes Grid Clusters using Tanzu Mission Control,Demonstration,Consideration,FALSE,"Modern Applications<br>Automation<br>Cybersecurity<p>Earn application mobility and distribution across multiple clouds using Kubernetes as the common control plane orchestrated by Tanzu Mission Control. In this review, we’ll focus on how it looks to deploy and manage Tanzu Kubernetes Clusters using TMC to targets on prem using vSphere with Tanzu, all the way out to various public clouds.</p>"
+Deploying Containerized Applications to vSphere with Tanzu using Helm,Demonstration,Consideration,FALSE,Modern Applications<br>Automation<p>Learn to leverage the open-source community to enhance application packaging for containerized workloads on top of your vSphere with Tanzu environment using Helm. Helm allows developers and administrators alike to seamlessly create and package applications that permits integrated version control and advanced deployment methods. Be sure to couple this Helm capability in your application rollouts on top of a native vSphere environment.</p>
+Terraform with NSX-T and vSphere,Demonstration,Consideration,FALSE,"Automation<br>Networking<p>HashiCorp Terraform is a great open source solution for infrastructure as code(IaC). Here we will go through basic manifest creation for Terraform, and show how this open source solution can be extremely powerful. We’ll take you through Terraform and deploy on VMware infrastructure so you can leverage this in your private cloud and understand how this can fit in your environment and use-case.</p>"
+Automated Application Scalability with Tanzu Kubernetes Grid,Demonstration,Buying,FALSE,Modern Applications<br>Automation<p>Avoid application bottlenecks due to manual intervention during times of load by using horizontal pod autoscaling on top of Tanzu Kubernetes Grid clusters. Learn how to achieve application elasticity on-prem with your existing vSphere deployment by adding Tanzu enabled services to your environment.</p>
+VMC on AWS,Demonstration,Research,FALSE,"Cloud<p>Using VMware Cloud on AWS you can leverage your existing VMware investment by extending expertise into the cloud for immediate benefits in resiliency, scalability, and elasticity. VMware Cloud on AWS provides a conduit to ease cloud migration without the need for complete application rehauls or complex conversion processes. We’ll examine how a hybrid cloud environment looks and feels while also demonstrating an actual migration of a workload from on-prem to VMC on AWS using VMware HCX. By the end, we’ll have a full grasp of what a sample cloud migration takes to accomplish when using VMware as the common workload platform.</p>"
+vRealize Automation Blueprinting,Demonstration,Consideration,FALSE,"Automation<p>Does vRealize Automation seem too complex to use? In this session we want to help our customers understand how to leverage custom automation through the vRA platform to deploy virtual machines, that can then be used for developer application, system tools etc. This session will start at “I’ve set up vRA now what?” and lead into initial setup, blueprint creation, and catalog creation for users to consume your automation through vRA.</p>"
+Cisco Data Center Automation with Ansible,Demonstration,Research,FALSE,Automation<br>Networking<p>A decentralized control plane in a traditional networking environment has its benefits but can become difficult to manage and maintain over time. Utilizing RedHat Ansible Tower automation platform we will begin to take command and control of a Cisco-based data center by centralizing device configuration through a trusted source of truth. RedHat Ansible and Cisco Networking work in tandem to achieve a single point of control for your sprawling data center environment.</p>
+Looking forward: VMware® vSphere and vSAN 7.0 U3,Blog,Research,FALSE,Modern Applications
+Extending Your Data Center during a Chip,Blog,Research,FALSE,Cloud
+Three starting points for the zero-trust roadmap,Blog,Research,FALSE,Cybersecurity
+Chipageddon Ð How will you respond?,Blog,Research,FALSE,Cloud
+Diversifying Your Backups,Blog,Research,FALSE, Data Protection
+The Language of Cloud,Blog,Research,FALSE, Automation
+Creating a Modern Platform from Existing Infrastructure with VMware Tanzu and Dell PowerStore,Blog,Consideration,FALSE,Modern Applications
+Trading Technical Debt for Managed Services in the Cloud,Blog,Research,FALSE,Cloud
+Disaster Recovery with VMware VCDR,Blog,Consideration,FALSE,Data Protection<br>Cloud
+The Cybersecurity Pandemic,Blog,Research,FALSE,Cybersecurity
+"Application Continuous Deployment on AWS using AWS EKS, GitLab, and Jenkins",Blog,Buying,FALSE,Automation
+SaltStack vRealized,Blog,Consideration,FALSE,Automation
+Tanzu Mission Control Orchestrates Kubernetes Across Multiple Public and Private Clouds,Blog,Consideration,FALSE,Modern Applications<br>Automation
+vSphere with Tanzu: The fastest route to a modern infrastructure,Blog,Research,FALSE,Modern Applications
+Microservices vs Monolithic,Blog,Research,FALSE,Modern Applications
+Automated Kubernetes Deployment using Tanzu Kubernetes Grid,Blog,Consideration,FALSE,Modern Applications
+AWS QuickSight for Fast Business Analytics,Blog,Consideration,FALSE,Modern Applications<br>Automation
+Continuous Integration and Continuous Delivery (CI/CD),Blog,Research,FALSE,Automation
+Modernizing and Securing Desktop Infrastructure with VDI,Blog,Research,FALSE,End User Computing
+"Strategy To Deploy A Highly Available, Mission-Critical Application On Cloud",Blog,Research,FALSE,Modern Applications<br>Cloud
+Securing the Healthcare Supply Chain,Blog,Research,FALSE,Modern Applications<br>Cloud
+A Single Source of Truth,Blog,Research,FALSE,Modern Applications<br>Automation
+Know Your Resellers to Ensure a Secure Supply Chain,Blog,Research,FALSE,
+Technology Triage Saves Damaged Devices Without Warranty,Blog,Research,FALSE,
+Migrating to NSX Data Center (NSX-T) from NSX for vSphere (NSX-V),Blog,Buying,FALSE,Networking
+Provide Application Scalability using VMware Tanzu Kubernetes Grid,Blog,Consideration,FALSE,Modern Applications
+Adoption of Telehealth Capabilities for Healthcare Providers,Blog,Research,FALSE,
 Managing and Migrating Workloads Across Hybrid Cloud,Blog,Executive,FALSE,Cloud
-The 8.1 Release of vRealize Automation and vRealize Operations,Blog,Executive,FALSE,Automation<br>Management & Monitoring
-vSphere 7.0 – A New Direction,Blog,Executive,FALSE,Modern Applications
-The Need for Speed – VMware March Annoucement,Blog,Executive,FALSE,Modern Applications
-Cloud Native Development On-Prem – Networking,Blog,Executive,FALSE,Modern Applications<br>Networking
-Cloud Native Development On-Prem – Container Orchestration,Blog,Executive,FALSE,Modern Applications
-Cloud Native Development On-Prem – Overview,Blog,Executive,FALSE,Modern Applications
-Automate Application Deployment using AWS EKS (Kubernetes),Blog,Executive,FALSE,Modern Applications<br>Cloud
-The Multi-Cloud Conundrum,Blog,Executive,FALSE,Modern Applications<br>Cloud
-Self-Healing Datacenter Application Monitoring,Blog,Executive,FALSE,Modern Applications<br>Monitoring & Management
-Sterling Cybersecurity Webinar Series- Part 3: Mind of a Hacker,Webinar,Executive,FALSE,Cybersecurity
-Sterling Cybersecurity Webinar Series- Part 1: Surviving a Destructive Nation-State Cyber-Attack and a Look at What the Digital Future Holds,Webinar,Executive,FALSE,Cybersecurity
-Sterling Cybersecurity Webinar Series- Part 2: Ransomware no limits no borders no fear,Webinar,Executive,FALSE,Cybersecurity
-Unstructured Data Storage,Webinar,Executive,FALSE,Data Protection
-Dell PowerScale Hoverwing Webinar,Webinar,Executive,FALSE,Data Protection
-eRate: Building and Sustaining your Hybrid Learning Network,Webinar,Executive,FALSE,
-Secure Supply Chain,Webinar,Executive,FALSE,
-Hardware Case Study – Public-Access Infrastructure,Case Study,Executive,FALSE,
-Data Center Case Study – A CBM Solution,Case Study,Executive,FALSE,
-Hardware and Services Case Study – Complete Chromebook Deployment,Case Study,Executive,FALSE,
-Big Data Case Study – A Federal IDPA Solution,Case Study,Executive,FALSE,Data Protection
-"Storage Case Study – Jackson County, Wisconsin",Case Study,Executive,FALSE,Data Protection
-Infrastructure Case Study – A VMware Educational Institute Solution,Case Study,Executive,FALSE,Modern Applications<br>Monitoring & Management
-Data Center Case Study – Distributor of Industrial Products,Case Study,Executive,FALSE,Modern Applications<br>Monitoring & Management
+The 8.1 Release of vRealize Automation and vRealize Operations,Blog,Research,FALSE,Automation<br>Management & Monitoring
+vSphere 7.0 – A New Direction,Blog,Research,FALSE,Modern Applications
+The Need for Speed – VMware March Annoucement,Blog,Research,FALSE,Modern Applications
+Cloud Native Development On-Prem – Networking,Blog,Consideration,FALSE,Modern Applications<br>Networking
+Cloud Native Development On-Prem – Container Orchestration,Blog,Consideration,FALSE,Modern Applications
+Cloud Native Development On-Prem – Overview,Blog,Research,FALSE,Modern Applications
+Automate Application Deployment using AWS EKS (Kubernetes),Blog,Consideration,FALSE,Modern Applications<br>Cloud
+The Multi-Cloud Conundrum,Blog,Research,FALSE,Modern Applications<br>Cloud
+Self-Healing Datacenter Application Monitoring,Blog,Research,FALSE,Modern Applications<br>Monitoring & Management
+Sterling Cybersecurity Webinar Series- Part 3: Mind of a Hacker,Webinar,Research,FALSE,"Cybersecurity<p>In a matter of a few weeks- a coastal-pipeline shut down, an international meat processing corporation was paralyzed. Hackers are on a quest. They’re eyeing to exploit, to crack, and conquer. They love the rush of power and the win.Internationally-recognized cybersecurity analyst and senior researcher Keren Elazari has the mind of a hacker, because she is one. The incidents of 2020 have left many hackers with the opportunity for additional gains.To compete or beat the hacker, you must think like one. Look inside the mind of a hacker, their motives and what makes your organization an easy target. Watch Part 3 of the Sterling Cybersecurity Webinar Series held on June 23rd, 2021. Learn to be proactive, better protect your invaluable data, your organization, and your reputation. Industry thought-leaders Keren Elazari and Stevan Bernard, former Executive Vice President of Sony Pictures Entertainment, discuss the global cybersecurity implications, the intricate mind of a hacker, and the future state of cybersecurity.</p>"
+Sterling Cybersecurity Webinar Series- Part 1: Surviving a Destructive Nation-State Cyber-Attack and a Look at What the Digital Future Holds,Webinar,Research,FALSE,"Cybersecurity<p>The average cost of a cyber breach is $3.68 million. It’s not a matter of “if” and it’s not a matter of “when”; it’s whether you will survive the cyber-attack. Since the early days of the pandemic, we’ve seen an accelerated and unprecedented digital transformation that would’ve taken years but instead happened in months or even weeks.</p>"
+Sterling Cybersecurity Webinar Series- Part 2: Ransomware no limits no borders no fear,Webinar,Research,FALSE,"Cybersecurity<p>The average cost of a cyber breach is $3.68 million. It’s not a matter of “if” and it’s not a matter of “when”; it’s whether you will survive the cyber-attack. Since the early days of the pandemic, we’ve seen an accelerated and unprecedented digital transformation that would’ve taken years but instead happened in months or even weeks.</p>"
+Unstructured Data Storage,Webinar,Research,FALSE,Data Protection<p>Efficiently manage unstructured data as it continues to grow exponentially.</p>
+Dell PowerScale Hoverwing Webinar,Webinar,Research,FALSE,"Data Protection<p>See how Sterling is using a Hoverwing™ to collect data and build resiliency in the most extreme environments. Data analytics provides possibilities, mitigates risks, and bears untapped potential; potential to save lives, make our world a safer, better place. Data is easy to gather and track in ideal environments… but what about extreme conditions? And how do you use that data? The future of disaster recovery via land, air, and sea is in the data points.</p>"
+eRate: Building and Sustaining your Hybrid Learning Network,Webinar,Research,FALSE,
+Secure Supply Chain,Webinar,Research,FALSE,
+Hardware Case Study – Public-Access Infrastructure,Case Study,Research,FALSE,
+Data Center Case Study – A CBM Solution,Case Study,Research,FALSE,
+Hardware and Services Case Study – Complete Chromebook Deployment,Case Study,Research,FALSE,
+Big Data Case Study – A Federal IDPA Solution,Case Study,Research,FALSE,Data Protection
+"Storage Case Study – Jackson County, Wisconsin",Case Study,Research,FALSE,Data Protection
+Infrastructure Case Study – A VMware Educational Institute Solution,Case Study,Research,FALSE,Modern Applications<br>Monitoring & Management
+Data Center Case Study – Distributor of Industrial Products,Case Study,Research,FALSE,Modern Applications<br>Monitoring & Management
