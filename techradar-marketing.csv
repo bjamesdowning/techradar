@@ -24,10 +24,10 @@ Automated Application Scalability with Tanzu Kubernetes Grid,Demonstration,Buyin
 VMC on AWS,Demonstration,Research,FALSE,"Cloud<p>Using VMware Cloud on AWS you can leverage your existing VMware investment by extending expertise into the cloud for immediate benefits in resiliency, scalability, and elasticity. VMware Cloud on AWS provides a conduit to ease cloud migration without the need for complete application rehauls or complex conversion processes. We’ll examine how a hybrid cloud environment looks and feels while also demonstrating an actual migration of a workload from on-prem to VMC on AWS using VMware HCX. By the end, we’ll have a full grasp of what a sample cloud migration takes to accomplish when using VMware as the common workload platform.</p>"
 vRealize Automation Blueprinting,Demonstration,Consideration,FALSE,"Automation<p>Does vRealize Automation seem too complex to use? In this session we want to help our customers understand how to leverage custom automation through the vRA platform to deploy virtual machines, that can then be used for developer application, system tools etc. This session will start at “I’ve set up vRA now what?” and lead into initial setup, blueprint creation, and catalog creation for users to consume your automation through vRA.</p>"
 Cisco Data Center Automation with Ansible,Demonstration,Research,FALSE,Automation<br>Networking<p>A decentralized control plane in a traditional networking environment has its benefits but can become difficult to manage and maintain over time. Utilizing RedHat Ansible Tower automation platform we will begin to take command and control of a Cisco-based data center by centralizing device configuration through a trusted source of truth. RedHat Ansible and Cisco Networking work in tandem to achieve a single point of control for your sprawling data center environment.</p>
-Looking forward: VMware® vSphere and vSAN 7.0 U3,Blog,Research,FALSE,Modern Applications
+Looking forward VMware vSphere and vSAN 7.0 U3,Blog,Research,FALSE,Modern Applications
 Extending Your Data Center during a Chip,Blog,Research,FALSE,Cloud
 Three starting points for the zero-trust roadmap,Blog,Research,FALSE,Cybersecurity
-Chipageddon Ð How will you respond?,Blog,Research,FALSE,Cloud
+Chipageddon How will you respond?,Blog,Research,FALSE,Cloud
 Diversifying Your Backups,Blog,Research,FALSE, Data Protection
 The Language of Cloud,Blog,Research,FALSE, Automation
 Creating a Modern Platform from Existing Infrastructure with VMware Tanzu and Dell PowerStore,Blog,Consideration,FALSE,Modern Applications
