@@ -1,1 +1,8 @@
+name,quadrant,ring,isNew,description
+VMware Tanzu,Platform, Deliver, TRUE,<p>Modern Applications</p>,
+RedHat OpenShift,Platform,Sell,FALSE,<p>Modern Applications</p>,
+D2iQ Kubernetes,Platform,Pursue,FALSE,<p>Modern Applications</p>,
+SUSE Rancher Labs,Platform,Pursue,FALSE,<p>Modern Applications</p>,
 
+VMware vRealize Automation,Tools,Deliver,TRUE,<p>Cloud Automation</p>
+HashiCorp Terraform,Tools,Deliver,TRUE,<p>Cloud Automation</p>
