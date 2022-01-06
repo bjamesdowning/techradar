@@ -1,9 +1,15 @@
 name,quadrant,ring,isNew,description
-VMware Horizon,Applications,Manage,TRUE,"<p>End User Compute</p>",
-VMware Tanzu,Platforms,Deliver,TRUE,"<p>Modern Applications</p>",
-RedHat OpenShift,Platforms,Sell,FALSE,"<p>Modern Applications</p>",
+
 SUSE Rancher Labs,Platforms,Pursue,FALSE,"<p>Modern Applications</p>",
 D2iQ Kubernetes,Platforms,Pursue,FALSE,"<p>Modern Applications</p>",
-VMware vRealize Automation,Tools,Deliver,TRUE,"<p>Cloud Automation</p>",
-HashiCorp Terraform,Tools,Deliver,TRUE,"<p>Cloud Automation</p>",
 Cisco SecureX,Security,Pursue,FALSE,"<p>Secure Access Services Edge</p>",
+
+RedHat OpenShift,Platforms,Sell,FALSE,"<p>Modern Applications</p>",
+
+HashiCorp Terraform,Tools,Deliver,TRUE,"<p>Cloud Automation</p>",
+VMware Tanzu,Platforms,Deliver,TRUE,"<p>Modern Applications</p>",
+VMware vRealize Automation,Tools,Deliver,TRUE,"<p>Cloud Automation</p>",
+
+VMware Horizon,Applications,Manage,TRUE,"<p>End User Compute</p>",
+
+
